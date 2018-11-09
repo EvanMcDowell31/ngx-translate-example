@@ -1,3 +1,7 @@
+- Tested addition of de.json (German) as a language translation option
+
+----------------------------------------------------------------------
+
 # ngx-translate example
 
 ## Development server
